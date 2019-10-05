@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570271181 source:c:\users\lucas.desktop-e80foqs\documents\info\c++\morsecode\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
+1570264708 source:c:\users\lucas.desktop-e80foqs\documents\info\c++\morsecode\morsecodetranslator.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
